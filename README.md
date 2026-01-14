@@ -18,7 +18,7 @@ A professional Machine Learning dashboard demonstrating real-time hyperparameter
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/diegosimao/LightGBM-Optimizer.git
    cd "Classification Models"
    ```
 
@@ -47,9 +47,9 @@ A professional Machine Learning dashboard demonstrating real-time hyperparameter
 
 ## 🛠️ Technologies
 - **Frontend**: Streamlit
-- **ML Engine**: Scikit-Learn
+- **ML Engine**: Scikit-Learn / LightGBM
 - **Optimization**: Optuna
 - **Visualization**: Plotly
 
 ---
-*Created by [Your Name] - 2024*
+*Created by Diego Simão - 2025*
